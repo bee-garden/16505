@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img height="188" width="198" src="https://botman.io/img/botman.png"></p>
 <h1 align="center">BotMan Studio</h1>
 
@@ -23,3 +24,6 @@ If you discover a security vulnerability within BotMan or BotMan Studio, please 
 
 BotMan is free software distributed under the terms of the MIT license.
 
+=======
+# 16505
+>>>>>>> 612d32696f4b99f4ff0c103403f722510a63da42
